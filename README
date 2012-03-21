@@ -1,0 +1,5 @@
+Example of a system plugin that can be used to override a view and layout for Joomla 2.5.
+
+Zip the layout folder and install normally.
+
+Read comments in the enclosed files.

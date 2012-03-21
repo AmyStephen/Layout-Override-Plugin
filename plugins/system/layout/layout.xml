@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system">
+	<name>plg_system_layout</name>
+	<author>Amy Stephen</author>
+	<creationDate>March 2012</creationDate>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>AmyStephen@gmail.com</authorEmail>
+	<authorUrl>molajo.org</authorUrl>
+	<version>1.0</version>
+	<description>PLG_SYSTEM_LAYOUT_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="layout">layout.php</filename>
+        <filename>index.html</filename>
+        <folder>com_content</folder>
+        <folder>language</folder>
+	</files>
+</extension>
